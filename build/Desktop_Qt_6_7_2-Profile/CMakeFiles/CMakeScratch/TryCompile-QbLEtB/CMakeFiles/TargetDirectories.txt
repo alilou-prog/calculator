@@ -1,0 +1,3 @@
+/home/ali/qt_projects/calculator/build/Desktop_Qt_6_7_2-Profile/CMakeFiles/CMakeScratch/TryCompile-QbLEtB/CMakeFiles/cmTC_05de2.dir
+/home/ali/qt_projects/calculator/build/Desktop_Qt_6_7_2-Profile/CMakeFiles/CMakeScratch/TryCompile-QbLEtB/CMakeFiles/edit_cache.dir
+/home/ali/qt_projects/calculator/build/Desktop_Qt_6_7_2-Profile/CMakeFiles/CMakeScratch/TryCompile-QbLEtB/CMakeFiles/rebuild_cache.dir
